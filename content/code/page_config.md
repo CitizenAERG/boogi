@@ -56,7 +56,7 @@ tocDepth: 1
 ## Page link
 
 Page link is defined page file name and directories path relative to `content`
-directory. Check [navigation](/content/configuration/navigation) details
+directory. Check [navigation](/content/fondamentaux/navigation) details
 to better understand how page link is created.
 
 Further on, when writing content, page link must be used to create valid

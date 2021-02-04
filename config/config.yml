@@ -1,8 +1,8 @@
 ---
 metadata:
-  name: BooGi
-  short_name: BooGi
-  description: BooGi - awesome GitBook-like documentation generator using Gatsby
+  name: Futureworks
+  short_name: Paperworks
+  description: Futureworks - Learn you the software craftsmanship
   language: en
   pathPrefix: "/"
   siteImage:
@@ -32,20 +32,17 @@ sidebar:
   # expanded:
   groups:
     - order: 1
-      path: "/gettingstarted"
-      title: ":rocket: Getting Started"
+      path: "/fondamentaux"
+      title: ":rocket: Fondamentaux"
     - order: 2
-      path: "/configuration"
-      title: ":wrench: Configuration"
+      path: "/code"
+      title: ":computer: Dans le code"
     - order: 3
-      path: "/editing"
-      title: ":writing_hand: Editing Content"
+      path: "/tests"
+      title: ":writing_hand: Dans les tests"
     - order: 4
-      path: "/deployment"
-      title: ":rocket: Deployment"
-    - order: 5
-      path: "/developing"
-      title: ":computer: Developing"
+      path: "/softskills"
+      title: ":medal: Au quotidien"
   links:
     - text: BooGi
       link: https://github.com/filipowm/boogi
@@ -64,16 +61,16 @@ pwa:
     icon: "/assets/favicon.png"
 
 social:
-  github: https://github.com/filipowm/boogi
-  linkedin: https://www.linkedin.com/in/mateusz-filipowicz-437b4768/
+  github: https://github.com/CitizenAERG/boogi
+  linkedin: linkedin url
   twitter: twitter url
 
 features:
   darkMode:
-    enabled: true  
+    enabled: true
     default: false
   editOnRepo:
-    location: https://github.com/filipowm/boogi 
+    location: https://github.com/CitizenAERG/boogi
     type: github
     editable: true
   mermaid:
@@ -97,11 +94,11 @@ features:
   propagateNetlifyEnv: true
   rss:
     enabled: true
-    title: BooGi Docs
+    title: Futureworks
     showIcon: false
-    copyright: "2020, Mateusz Filipowicz"
-    webMaster: "Mateusz Filipowicz"
-    managingEditor: "Mateusz Filipowicz"
+    copyright: "2021, CitizenAERG"
+    webMaster: "CitizenAERG"
+    managingEditor: "CitizenAERG"
     categories:
       - Docs as Code
       - GatsbyJS
@@ -129,7 +126,7 @@ features:
   toc:
     show: true
     depth: 4
-  fullScreenMode: 
+  fullScreenMode:
     enabled: true
     hideHeader: true
     hideToc: true

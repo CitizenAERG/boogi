@@ -1,5 +1,5 @@
 ---
-title: "Quick Start"
+title: "La Pyramide"
 order: 3
 ---
 
@@ -43,7 +43,7 @@ using BooGi CLI.
 
 ```bash
 +-- .boogi.yml   # BooGi CLI configuration file
-+-- package.json # 
++-- package.json #
 +-- README.md    # Your BooGi app readme
 │
 +-- assets/      # Directory with static assets not used inside content (e.g. logo)

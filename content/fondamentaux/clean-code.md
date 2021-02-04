@@ -1,5 +1,5 @@
 ---
-title: "Setting up"
+title: "Clean Code"
 order: 1
 tocDepth: 1
 ---
@@ -13,22 +13,22 @@ in subsequent articles.
 <Warning>
 
 For adding images (or any other assets) to content, please follow [this](/editing/images) guide instead.
-Using assets does not bring performance optimization 
+Using assets does not bring performance optimization
 </Warning>
 
 You can use your own logo, favicon, page icons (used by _PWA_). Add images
 to `static/assets` directory. Any assets (like images) can be then accessed
-under `/assets/<name_of_file>` path. 
+under `/assets/<name_of_file>` path.
 
 Let's assume you add `mylogo.png` image to `static/assets`. Then you can
-set a path in `config.yml` logo configuration as 
+set a path in `config.yml` logo configuration as
 
 ```yaml
 header:
   logo: /assets/mylogo.png
 ```
 
-## Using environment variables 
+## Using environment variables
 
 Some configuration may be either sensitive (like Algolia API keys) or is per-environment.
 To set such properties, you can make use of environment variables

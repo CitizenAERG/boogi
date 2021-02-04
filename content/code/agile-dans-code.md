@@ -1,5 +1,5 @@
 ---
-title: "Rich content"
+title: "L'Agile dans le code"
 order: 2
 ---
 
