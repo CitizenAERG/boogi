@@ -9,7 +9,7 @@ Cette formation originale s’adresse à tous les développeurs désirant décou
 
 # OBJECTIFS
 
- * Comprendre qu’une organisation agile de projet à des répercussions dans le code
+ * Comprendre qu’une organisation agile de projet  ades répercussions dans le code
  * Découvrir de nouvelles tactiques et pratiques de code, dictées par les objectifs et la maturité du projet
  * Maîtriser la technique de code itérative, en phase avec la planification du logiciel
  * Savoir différer des décisions de design et d’architecture
@@ -22,7 +22,7 @@ Cette formation s’adresse à tous les développeurs, et notamment ceux dont l�
 # PROGRAMME DE LA FORMATION
 ___
 ## JOUR 1
-1.  Introduction
+1. Introduction
  * Les problèmes classiques de l’agile
  * Opposition de culture, agile imposé et les managers.
  * Le Cargo culte
